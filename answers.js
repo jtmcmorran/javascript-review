@@ -25,3 +25,19 @@ const names3 = [
   {name:'jasonT', location:'somewhere',favoriteShow:'supergirl'},
   {name:'jasonC', location:'a cool place',favoriteShow:'titans'}
 ]
+
+
+//take it easy
+//1
+const rainbow = ['red','orange','yellow','green','blue','indigo','violet']
+//2
+console.log(rainbow[4])
+//3
+const jamie = {
+  favoriteFood:'burger',
+  hobby:'magic the gathering',
+  town:'bethesda',
+  favoriteDatatype:'array or object one of the two'
+}
+//4
+console.log(jamie.hobby);
